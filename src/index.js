@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//This is the "root" in public/index.html
 ReactDOM.render(
   <React.StrictMode>
     <App />

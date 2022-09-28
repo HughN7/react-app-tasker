@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "0",
+      "text": "Task 1",
+      "day": "Wednesday March 23rd 2022",
+      "reminder": false
+    },
+    {
+      "id": "1",
+      "text": "Task 2",
+      "day": "Wednesday March 23rd 2022",
+      "reminder": false
+    },
+    {
+      "text": "Task 3",
+      "day": "Hello World",
+      "reminder": true,
+      "id": "csDx9OD"
+    }
+  ]
+}
